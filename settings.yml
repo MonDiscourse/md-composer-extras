@@ -6,11 +6,27 @@ underline_text:
   default: "Text"
   description:
     en: Enter the placeholder text that appears in the composer after the user clicks the button.
+highlighter_button:
+  default: "Highlighter"
+  description:
+    en: Enter the text for the title of the button in the composer.
+highlighter_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
 align_center_button:
   default: "Center"
   description:
     en: Enter the text for the title of the button in the composer.
 align_center_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+align_left_button:
+  default: "Align left"
+  description:
+    en: Enter the text for the title of the button in the composer.
+align_left_text:
   default: "Text"
   description:
     en: Enter the placeholder text that appears in the composer after the user clicks the button.
@@ -74,6 +90,6 @@ columns_text:
 Svg_icons: 
   type: 'list'
   list_type: 'compact'
-  default: 'align-center|align-right|align-justify|strikethrough|underline|indent|table-columns|superscript|subscript'
+  default: 'align-center|align-right|align-justify|strikethrough|underline|indent|table-columns|superscript|subscript|highlighter'
   description: 
     en: "Include FontAwesome 6 icon classes for each icon used in the list."

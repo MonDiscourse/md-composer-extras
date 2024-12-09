@@ -1,9 +1,9 @@
 {
-  "name": "md-composer-extras",
+  "name": "MD Composer Extras",
   "component": true,
   "license_url": null,
   "about_url": "https://www.mon-discourse.fr/themes/md-composer-extras/",
   "authors": "Steven",
-  "theme_version": "1.5",
+  "theme_version": "1.6",
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
