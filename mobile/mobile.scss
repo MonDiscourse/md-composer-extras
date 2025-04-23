@@ -1,0 +1,32 @@
+#reply-control .d-editor-button-bar .bullet, #reply-control .d-editor-button-bar .list, #reply-control .d-editor-button-bar .align_justify_button{
+    display: none;
+}
+
+.d-editor-spacer {
+    margin: 0 2px;
+}
+
+[data-wrap="columns"] {
+  width: 100%;
+  float: none;
+  border-right: none;
+  padding-right: 0;
+  margin-right: 0;
+}
+
+[data-wrap="floatl"] {
+  padding-left: 10px;
+  display: block;
+  float: none;
+  width: 100%;
+}
+
+[data-wrap="floatr"] {
+  float: none;
+  margin-left: 0;
+  width: 100%;
+}
+
+[data-wrap="floatc"] {
+  clear: both;
+}

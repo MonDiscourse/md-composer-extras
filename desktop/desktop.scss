@@ -1,0 +1,26 @@
+[data-wrap="columns"] {
+  width: 50%;
+  float: left;
+  border-right: 1px solid $primary;
+  padding-right: 5px;
+  margin-right: 5px;
+}
+
+[data-wrap="columns"] > p, [data-wrap="floatl"] > p, [data-wrap="floatr"] > p, [data-wrap="floatc"] > p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+[data-wrap="floatl"] {
+  padding-left: 20px;
+  display: block;
+}
+
+[data-wrap="floatr"] {
+  float: right;
+  margin-left: 10px;
+}
+
+[data-wrap="floatc"] {
+  clear: both;
+}

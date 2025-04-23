@@ -1,0 +1,95 @@
+underline_button:
+  default: "Underline"
+  description:
+    en: Enter the text for the title of the button in the composer.
+underline_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+highlighter_button:
+  default: "Highlighter"
+  description:
+    en: Enter the text for the title of the button in the composer.
+highlighter_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+align_center_button:
+  default: "Center"
+  description:
+    en: Enter the text for the title of the button in the composer.
+align_center_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+align_left_button:
+  default: "Align left"
+  description:
+    en: Enter the text for the title of the button in the composer.
+align_left_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+align_right_button:
+  default: "Align right"
+  description:
+    en: Enter the text for the title of the button in the composer.
+align_right_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+align_justify_button:
+  default: "Justify"
+  description:
+    en: Enter the text for the title of the button in the composer.
+align_justify_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+strikethrough_button:
+  default: "Strike-through"
+  description:
+    en: Enter the text for the title of the button in the composer.
+strikethrough_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+float_left_button:
+  default: "Float left"
+  description:
+    en: Enter the text for the title of the button in the composer.
+float_left_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+superscript_button:
+  default: "Superscript"
+  description:
+    en: Enter the text for the title of the button in the composer.
+superscript_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+subscript_button:
+  default: "Subscript"
+  description:
+    en: Enter the text for the title of the button in the composer.
+subscript_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+columns_button:
+  default: "Columns"
+  description:
+    en: Enter the text for the title of the button in the composer.
+columns_text:
+  default: "Use the closing tag to mark where the first column ends. The second column will autobreak."
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+
+Svg_icons: 
+  type: 'list'
+  list_type: 'compact'
+  default: 'align-center|align-right|align-justify|strikethrough|underline|indent|table-columns|superscript|subscript|highlighter'
+  description: 
+    en: "Include FontAwesome 6 icon classes for each icon used in the list."
